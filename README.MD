@@ -34,8 +34,9 @@ TypeScript – Type safety and structured code
 ```
 
 
-2.``` 
-   npm install
+2.
+```
+npm install
    ```
 3.
 
