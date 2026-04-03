@@ -29,11 +29,12 @@ TypeScript – Type safety and structured code
 ## 🚀 Getting Started
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/abody2k/sauce-demo-QA.git ```
+   ```
+   git clone https://github.com/abody2k/sauce-demo-QA.git
+```
 
 
-2.   ```bash 
+2. ``` 
    npm install
    ```
 3.
