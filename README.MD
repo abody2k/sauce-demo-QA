@@ -30,3 +30,6 @@ Test data is centralized in data/ for maintainability.
 Focus is on clean, maintainable code and proper test structuring.
 ### Github actions
 - github actions has one job which is set to test payment running payment.spec.ts
+
+
+[![Playwright Tests](https://github.com/abody2k/sauce-demo-QA/actions/workflows/playwright.yml/badge.svg)](https://github.com/abody2k/sauce-demo-QA/actions/workflows/playwright.yml)
