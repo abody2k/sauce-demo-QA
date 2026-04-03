@@ -28,17 +28,13 @@ TypeScript – Type safety and structured code
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
-   ```
+Clone the repository:
+```
    git clone https://github.com/abody2k/sauce-demo-QA.git
 ```
-
-
-2.
 ```
 npm install
-   ```
-3.
+```
 
 ```
 npx playwright test
