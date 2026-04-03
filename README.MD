@@ -30,7 +30,7 @@ TypeScript – Type safety and structured code
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abody2k/sauce-demo-QA.git
+   git clone https://github.com/abody2k/sauce-demo-QA.git ```
 
 
 2.   ```bash 
