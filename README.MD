@@ -34,12 +34,12 @@ TypeScript – Type safety and structured code
 ```
 
 
-2. ``` 
+2.``` 
    npm install
    ```
 3.
 
-```bash
+```
 npx playwright test
 ```
 
