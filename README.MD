@@ -28,3 +28,5 @@ TypeScript – Type safety and structured code
 Payment “happy path” is simulated, since I don’t have access to real payment processing.
 Test data is centralized in data/ for maintainability.
 Focus is on clean, maintainable code and proper test structuring.
+### Github actions
+- github actions has one job which is set to test payment running payment.spec.ts
